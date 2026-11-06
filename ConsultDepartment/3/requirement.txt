@@ -1,0 +1,13 @@
+#---环境配置解析工具
+uv
+
+#---程序编译封装
+pyinstaller
+
+#---代码依赖库
+pandas>=1.0.0
+pandas-stubs
+
+openpyxl>=3.0.0
+xlrd==1.2.0
+pywin32
